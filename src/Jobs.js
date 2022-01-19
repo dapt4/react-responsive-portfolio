@@ -1,5 +1,4 @@
 import React from "react";
-import { Card, Button } from "react-bootstrap";
 import Plants from "./assets/plants.jpg";
 import Shopping from "./assets/shopping.jpg";
 import "./styles/Jobs.scss";
