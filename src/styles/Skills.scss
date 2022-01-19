@@ -1,0 +1,14 @@
+.skills{
+  margin: 1rem 0px;
+  padding: 5rem;
+  color: #ccc;
+  .tools{
+    display: flex;
+    padding-top: 40px;
+    gap: 20px;
+    flex-wrap: wrap;
+    i{
+      font-size: 8em;
+    }
+  }
+}

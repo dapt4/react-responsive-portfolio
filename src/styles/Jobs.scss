@@ -1,0 +1,11 @@
+.jobs{
+  display: flex;
+  flex-direction: column;
+  padding: 60px;
+  .cards{
+    display: flex;
+    gap: 40px;
+    margin-top: 40px;
+    flex-wrap: wrap;
+  }
+}
