@@ -12,6 +12,7 @@ ReactDOM.render(
     <Layout>
       <Routes>
         <Route exact path="/" element={<Home />} />
+        <Route path="/react-responsive-portfolio/" element={<Home />} />
         <Route path="/skills" element={<Skills />} />
         <Route path="/jobs" element={<Jobs />} />
         <Route path="/contact" element={<Contact />} />
