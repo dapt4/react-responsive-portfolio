@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="portfolio.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient850">
+      <stop
+         id="stop848"
+         offset="0"
+         style="stop-color:#45464c;stop-opacity:0" />
+      <stop
+         id="stop846"
+         offset="1"
+         style="stop-color:#23232a;stop-opacity:1;" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient850"
+       id="radialGradient852"
+       cx="107.95"
+       cy="157.3"
+       fx="107.95"
+       fy="157.3"
+       r="107.95"
+       gradientTransform="matrix(0.99976898,-0.01372781,0.01772425,1.2908256,-2.7630841,-44.264943)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="321.42857"
+     inkscape:cy="540"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="10.205357,130.77976"
+       orientation="1,0"
+       id="guide1053"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="205.69464,-6.0159285e-14"
+       orientation="1,0"
+       id="guide1057"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.6)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#45464c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect970"
+       width="215.89999"
+       height="279.39999"
+       x="3.0517579e-06"
+       y="17.600002" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:url(#radialGradient852);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect815"
+       width="215.89999"
+       height="279.39999"
+       x="3.0517579e-06"
+       y="17.600002" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.28243828px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.8101142;"
+       x="8.6095867"
+       y="51.842148"
+       id="text974"><tspan
+         sodipodi:role="line"
+         id="tspan972"
+         x="8.6095867"
+         y="51.842148"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#cccccc;stroke-width:0.8101142;">Fullstack Developer</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:12.75518894px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.59789944;"
+       x="8.4630547"
+       y="69.285286"
+       id="text978"><tspan
+         sodipodi:role="line"
+         id="tspan976"
+         x="8.4630547"
+         y="69.285286"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Light';fill:#cccccc;stroke-width:0.59789944;">Diego Perozo</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:5.64444447px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="10.658927"
+       y="95.538689"
+       id="text1001"><tspan
+         sodipodi:role="line"
+         id="tspan999"
+         x="10.658927"
+         y="95.538689"
+         style="font-size:3.60891676px;fill:#cccccc;stroke-width:0.26458332;-inkscape-font-specification:'Open Sans Semi-Bold';font-family:'Open Sans';font-weight:600;font-style:normal;font-stretch:normal;font-variant:normal;">EXPERIENCE</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1003"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;"
+       transform="matrix(0.16919281,0,0,0.16919281,3.6621254,54.025008)"><flowRegion
+         id="flowRegion1005"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;"><rect
+           id="rect1007"
+           width="810.6825"
+           height="811.61493"
+           x="40"
+           y="260.28571"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;" /></flowRegion><flowPara
+         id="flowPara1009">Argotec S.L.  — Frontend Developer</flowPara><flowPara
+         id="flowPara1011">JAN 2020 - present day</flowPara><flowPara
+         id="flowPara1013">I have created a frontend from scratch for the use of more than 1700 users around the world . - app.campo.es</flowPara><flowPara
+         id="flowPara1021" /><flowPara
+         id="flowPara1015">Hellosabi inc. — frontend developer</flowPara><flowPara
+         id="flowPara1017">JAN  2020 - DEC  2020</flowPara><flowPara
+         id="flowPara1019">Develop a webapp with React, TSX, webpack, sass, BEM, Atomic design, function components, react-router-dom. - hellosabi.com</flowPara><flowPara
+         id="flowPara1099" /><flowPara
+         id="flowPara1067">EDUCATION</flowPara><flowPara
+         id="flowPara1069">U. Rafael Belloso Chacín, — Licensed in Graphic Design</flowPara><flowPara
+         id="flowPara1071">OCT 2010 - OCT 2014</flowPara><flowPara
+         id="flowPara1073">Licensed in Graphic Design for identity,  publicity, art and web. </flowPara><flowPara
+         id="flowPara1075">Platzi.com,  — Fullstack developer</flowPara><flowPara
+         id="flowPara1077">SEP 2016 - present day </flowPara><flowPara
+         id="flowPara1079">Javascript school - Backend development with python and Django</flowPara><flowPara
+         id="flowPara1081"></flowPara><flowPara
+         id="flowPara1083">CONTACT</flowPara><flowPara
+         id="flowPara1085">diegodapt18@gmail.com</flowPara><flowPara
+         id="flowPara1087">https://www.linkedin.com/in/diego-antonio-perozo-troncone-563893b9/</flowPara><flowPara
+         id="flowPara1089">https://github.com/dapt4</flowPara><flowPara
+         id="flowPara1091"></flowPara><flowPara
+         id="flowPara1093">PORTFOLIO</flowPara><flowPara
+         id="flowPara1095">https://dapt4.github.io/react-responsive-portfolio/</flowPara><flowPara
+         id="flowPara1097" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1023"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.33333397px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Bold';letter-spacing:0px;word-spacing:0px;fill:#cccccc;fill-opacity:1;stroke:none;"
+       transform="matrix(0.26458333,0,0,0.26458333,13.531548,47.460119)"><flowRegion
+         id="flowRegion1025"
+         style="fill:#cccccc;"><rect
+           id="rect1027"
+           width="202.85715"
+           height="591.42859"
+           x="527.14288"
+           y="166"
+           style="fill:#cccccc;" /></flowRegion><flowPara
+         id="flowPara1029"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">HARD SKILLS</flowPara><flowPara
+         id="flowPara1031"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">Javascript ES 2016, Typescript, react.js, responsive design, SASS.</flowPara><flowPara
+         id="flowPara1033"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">Bootstrap, jquery, leaflet.js (maps), highcharts (graphic charts).</flowPara><flowPara
+         id="flowPara1045"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;" /><flowPara
+         id="flowPara1035"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">SOFT SKILLS</flowPara><flowPara
+         id="flowPara1037"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">Ease in interpersonal relationships,  self development,Creativity and innovation,emotional intelligence, Patience, </flowPara><flowPara
+         id="flowPara1039"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;" /><flowPara
+         id="flowPara1051"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">LANGUAGE</flowPara><flowPara
+         id="flowPara1047"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;">English - Level B1</flowPara><flowPara
+         id="flowPara1043"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:13.64000034px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans Semi-Bold';fill:#cccccc;" /></flowRoot>  </g>
+</svg>
