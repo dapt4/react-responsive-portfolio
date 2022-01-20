@@ -6,7 +6,7 @@ export default function Skills() {
     <section className="skills">
       <h3>My Skills</h3>
       <h6 className="h4 col-md-6">
-        I have solid knowledge in: HTML5,CSS3, Javascript 2016 or later,
+        I have solid knowledge in: HTML5, CSS3, Javascript 2016 or later,
         Typescript, react.js, JSX, TSX, i work allways thinking in responsive
         web design, i like to use SASS for preprocess my css. I build Api rest
         apps in nodejs with javascript and express, i write apps client side

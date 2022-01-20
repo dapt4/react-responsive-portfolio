@@ -9,6 +9,9 @@
     flex-wrap: wrap;
     i{
       font-size: 8em;
+      @media (max-width: 600px){
+        font-size: 3em;
+      }
     }
   }
 }

@@ -9,16 +9,16 @@ export default function Header() {
       <Container>
         <Nav className="me-auto">
           <Nav.Link>
-            <Link className="text-secondary text-decoration-none" to="/">Home</Link>
+            <Link className="text-light text-decoration-none" to="/">Home</Link>
           </Nav.Link>
           <Nav.Link>
-            <Link className="text-secondary text-decoration-none" to="/skills">Skills</Link>
+            <Link className="text-light text-decoration-none" to="/skills">Skills</Link>
           </Nav.Link>
           <Nav.Link>
-            <Link className="text-secondary text-decoration-none" to="/jobs">Jobs</Link>
+            <Link className="text-light text-decoration-none" to="/jobs">Jobs</Link>
           </Nav.Link>
           <Nav.Link>
-            <Link className="text-secondary text-decoration-none" to="/contact">Contact</Link>
+            <Link className="text-light text-decoration-none" to="/contact">Contact</Link>
           </Nav.Link>
         </Nav>
       </Container>
