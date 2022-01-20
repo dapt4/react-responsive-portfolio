@@ -1,16 +1,25 @@
 {
   "files": {
-    "main.css": "/react-responsive-portfolio/static/css/main.d9a1b9db.css",
-    "main.js": "/react-responsive-portfolio/static/js/main.4200611a.js",
+    "main.css": "/react-responsive-portfolio/static/css/main.4d519c59.css",
+    "main.js": "/react-responsive-portfolio/static/js/main.5dea9d78.js",
+    "static/media/passmanager.png": "/react-responsive-portfolio/static/media/passmanager.3abb1be7f245dc8c0589.png",
+    "static/media/djangoPortfolio.png": "/react-responsive-portfolio/static/media/djangoPortfolio.ad628440b1f6c5f55feb.png",
     "static/media/shopping.jpg": "/react-responsive-portfolio/static/media/shopping.4735e0df356cb78cdcd6.jpg",
+    "static/media/react-responsive-portfolio.png": "/react-responsive-portfolio/static/media/react-responsive-portfolio.f17acafade136f7bd50e.png",
+    "static/media/notesApp.png": "/react-responsive-portfolio/static/media/notesApp.93298a9348600fb428d4.png",
     "static/media/plants.jpg": "/react-responsive-portfolio/static/media/plants.3d2155da73b36427e68c.jpg",
+    "static/media/teamManager.png": "/react-responsive-portfolio/static/media/teamManager.05a98d48b0df96b4f76f.png",
     "static/media/terminal.png": "/react-responsive-portfolio/static/media/terminal.4870693932c4a23ebc90.png",
+    "static/media/all-store-api.png": "/react-responsive-portfolio/static/media/all-store-api.e23c47fd13856fed4f10.png",
+    "static/media/fastapi.jpeg": "/react-responsive-portfolio/static/media/fastapi.02a9761d0c26f09c51da.jpeg",
+    "static/media/wedding.png": "/react-responsive-portfolio/static/media/wedding.3a6dc5159a25ff0bb531.png",
+    "static/media/tasksApp.png": "/react-responsive-portfolio/static/media/tasksApp.ffeb5f344c653ca41c8c.png",
     "index.html": "/react-responsive-portfolio/index.html",
-    "main.d9a1b9db.css.map": "/react-responsive-portfolio/static/css/main.d9a1b9db.css.map",
-    "main.4200611a.js.map": "/react-responsive-portfolio/static/js/main.4200611a.js.map"
+    "main.4d519c59.css.map": "/react-responsive-portfolio/static/css/main.4d519c59.css.map",
+    "main.5dea9d78.js.map": "/react-responsive-portfolio/static/js/main.5dea9d78.js.map"
   },
   "entrypoints": [
-    "static/css/main.d9a1b9db.css",
-    "static/js/main.4200611a.js"
+    "static/css/main.4d519c59.css",
+    "static/js/main.5dea9d78.js"
   ]
 }
