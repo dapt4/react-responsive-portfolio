@@ -10,6 +10,7 @@ import teamManager from "./assets/teamManager.png";
 import reactPortfolio from "./assets/react-responsive-portfolio.png";
 import djangoPorfolio from "./assets/djangoPortfolio.png";
 import allStoreApi from "./assets/all-store-api.png";
+import githubLogo from "./assets/github.svg"
 import "./styles/Jobs.scss";
 
 export default function Jobs() {
@@ -30,6 +31,41 @@ export default function Jobs() {
     },
   ];
   const projectsArray = [
+    {
+      title: "Imageserver app",
+      image: githubLogo,
+      link: "https://github.com/dapt4/imageserver-django-drf-postgres-auth-pillow-uuid0",
+      description:
+        "A image server app like aws s3 made created in django, django rest framework, postgresql, pillow, uuid0, python-dotenv",
+    },
+    {
+      title: "passwordsmanager django",
+      image: githubLogo,
+      link: "https://github.com/dapt4/passwordsmanager-django-drf-postgres",
+      description:
+        "a passwords manager application with authentication made created with django, rest_framework, postdresql",
+    },
+    {
+      title: "django tasksapp",
+      image: githubLogo,
+      link: "https://github.com/dapt4/django_drf_postgres_auth_tasksapp",
+      description:
+        "a tasksapp with authentication made created in django, djangorestframework, postgresql",
+    },
+    {
+      title: "django musicapp ",
+      image: githubLogo,
+      link: "https://github.com/dapt4/django-drf-postgres-musicapp",
+      description:
+        "a music application made created with django, django_rest_framework, postgresql, python-env",
+    },
+    {
+      title: "django booksapp",
+      image: githubLogo,
+      link: "https://github.com/dapt4/django-drf-postgres-booksapp",
+      description:
+        "a books application made created with django, django_rest_framework, postgresql",
+    },
     {
       title: "NotesApp",
       image: nortesAppImg,
