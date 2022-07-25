@@ -7,7 +7,7 @@ export default function Skills() {
       <h3>My Skills</h3>
       <h6 className="h4 col-md-6">
         I have solid knowledge in: Python, django, django_rest_framework, 
-        postgresql, mysql, token based sessions
+        postgresql, mysql, token based sessions,
         HTML5, CSS3, Javascript 2016 or later,
         Typescript, react.js, JSX, TSX, i work allways thinking in responsive
         web design, i like to use SASS for preprocess my css. I build Api rest
