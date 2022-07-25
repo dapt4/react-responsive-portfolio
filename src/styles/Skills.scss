@@ -13,5 +13,12 @@
         font-size: 3em;
       }
     }
+    img{
+      width: 16rem;
+      height: auto;
+      @media (max-width:600px){
+        width: 8rem;
+      }
+    }
   }
 }

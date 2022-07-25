@@ -26,7 +26,7 @@ export default function Contact() {
       <div>
         <a
           className="btn btn-primary mt-5"
-          href="https://drive.google.com/file/d/10JY2ObMEkO1asZ2FwFu7jDm4nMCH09Ly/view?usp=sharing"
+          href="https://docs.google.com/document/d/e/2PACX-1vTeppLR98BF8ImlyI5tg_-Km5mLLmpe-FifeJv219KjK2DUf2R00aLsm0nCfGwthhxDEMJbPPaDarHn/pub"
         >
           Download CV
         </a>
