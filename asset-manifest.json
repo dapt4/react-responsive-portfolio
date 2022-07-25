@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-responsive-portfolio/static/css/main.a078a0e6.css",
-    "main.js": "/react-responsive-portfolio/static/js/main.d7b33dcf.js",
+    "main.js": "/react-responsive-portfolio/static/js/main.1f5fd188.js",
     "static/media/passmanager.png": "/react-responsive-portfolio/static/media/passmanager.3abb1be7f245dc8c0589.png",
     "static/media/djangoPortfolio.png": "/react-responsive-portfolio/static/media/djangoPortfolio.ad628440b1f6c5f55feb.png",
     "static/media/shopping.jpg": "/react-responsive-portfolio/static/media/shopping.4735e0df356cb78cdcd6.jpg",
@@ -16,10 +16,10 @@
     "static/media/tasksApp.png": "/react-responsive-portfolio/static/media/tasksApp.ffeb5f344c653ca41c8c.png",
     "index.html": "/react-responsive-portfolio/index.html",
     "main.a078a0e6.css.map": "/react-responsive-portfolio/static/css/main.a078a0e6.css.map",
-    "main.d7b33dcf.js.map": "/react-responsive-portfolio/static/js/main.d7b33dcf.js.map"
+    "main.1f5fd188.js.map": "/react-responsive-portfolio/static/js/main.1f5fd188.js.map"
   },
   "entrypoints": [
     "static/css/main.a078a0e6.css",
-    "static/js/main.d7b33dcf.js"
+    "static/js/main.1f5fd188.js"
   ]
 }
