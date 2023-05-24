@@ -12,6 +12,7 @@ import djangoPorfolio from "./assets/djangoPortfolio.png";
 import allStoreApi from "./assets/all-store-api.png";
 import githubLogo from "./assets/github.svg"
 import "./styles/Jobs.scss";
+// import {Link} from "react-router-dom";
 
 export default function Jobs() {
   const jobsArray = [
@@ -20,14 +21,14 @@ export default function Jobs() {
       image: Plants,
       link: "https://app.qampo.es",
       description:
-        "I have created a frontend from scratch for the use of more than 1700 users around the world.",
+        "Fullstack developer",
     },
     {
       title: "hellosabi.com",
       image: Shopping,
       link: "https://hellosabi.com",
       description:
-        "Develop a webapp with React, TSX, webpack, sass, BEM, Atomic design, function components, react-router-dom.",
+        "React Frontend Developer",
     },
   ];
   const projectsArray = [
@@ -133,19 +134,12 @@ export default function Jobs() {
       <h4 className="text-secondary">
         I have had the pleasure of working in two large companies to contribute
         all my skills and grow with them.
-        <br />
-        <br />
-        <p>
-          You can see more projects in my{" "}
-          <a className="text-light" href="https://github.com/dapt4">
-            Github
-          </a>
-        </p>
+        
       </h4>
       <div className="cards">
-        {jobsArray.map((job) => (
-          <div className="card" style={{ width: "18rem" }}>
-            <div class="img-box">
+        {jobsArray.map((job, index) => (
+          <div className="card" key={index} style={{ width: "18rem" }}>
+            <div className="img-box">
               <img src={job.image} className="card-img-top" alt="plants" />
             </div>
             <div className="card-body">
@@ -159,10 +153,18 @@ export default function Jobs() {
         ))}
       </div>
       <h1 className="text-light mt-5">My personal projects</h1>
+      <br />
+      <br />
+      <p className="text-ight">
+        You can see more projects in my{" "}
+        <a className="text-light" href="https://github.com/dapt4">
+          Github
+        </a>
+      </p>
       <div className="personal-projects">
-        {projectsArray.map((project) => (
-          <div className="card" style={{ width: "18rem" }}>
-            <div class="img-box">
+        {projectsArray.map((project, index) => (
+          <div className="card" key={index} style={{ width: "18rem" }}>
+            <div className="img-box">
               <img src={project.image} className="card-img-top" alt="plants" />
             </div>
             <div className="card-body">

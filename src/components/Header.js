@@ -8,18 +8,10 @@ export default function Header() {
     <Navbar bg="dark" variant="dark">
       <Container>
         <Nav className="me-auto">
-          <Nav.Link>
-            <Link className="text-light text-decoration-none" to="/">Home</Link>
-          </Nav.Link>
-          <Nav.Link>
-            <Link className="text-light text-decoration-none" to="/skills">Skills</Link>
-          </Nav.Link>
-          <Nav.Link>
-            <Link className="text-light text-decoration-none" to="/jobs">Jobs</Link>
-          </Nav.Link>
-          <Nav.Link>
-            <Link className="text-light text-decoration-none" to="/contact">Contact</Link>
-          </Nav.Link>
+          <Nav.Link className="text-light text-decoration-none" href="#/">Home</Nav.Link>
+          <Nav.Link className="text-light text-decoration-none" href="#/skills">Skills</Nav.Link>
+          <Nav.Link className="text-light text-decoration-none" href="#/jobs">Jobs</Nav.Link>
+          <Nav.Link className="text-light text-decoration-none" href="#/contact">Contact</Nav.Link>
         </Nav>
       </Container>
     </Navbar>

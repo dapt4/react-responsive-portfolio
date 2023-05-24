@@ -6,12 +6,11 @@ export default function Skills() {
     <section className="skills">
       <h3>My Skills</h3>
       <h6 className="h4 col-md-6">
-        I have solid knowledge in: Python, django, django_rest_framework, 
-        postgresql, mysql, token based sessions,
-        HTML5, CSS3, Javascript 2016 or later,
-        Typescript, react.js, JSX, TSX, i work allways thinking in responsive
-        web design, i like to use SASS for preprocess my css. I build Api rest
-        apps in nodejs with javascript and express, i write apps client side
+    I have solid knowledge in: javascript, css, html, java, spring mvc,
+        sql, fullstack developer en Argotec Ingeniería, react, typescript,
+        angular, python, django, flask, fastapi, Token based sessions.
+        i work allways thinking in responsive web design, i like to use SASS
+        for preprocess my css. i write apps client side
         rendering (CSR), server side rendering (SSR - JSP - ejs - handlebars),
         in the most of the cases i use Bootstrap for fast development, jquery,
         leaflet.js is the better tool for make interactive maps, highcharts for
@@ -20,8 +19,8 @@ export default function Skills() {
         <br/>       
         <p>
           I use VScode for write code, but i prefer nvim, i use sublime merge or
-          comandline GIT, github, bitbucket, gnu/Linux ( debian, ubuntu,
-          elementaryOS, manjaro linux, ), and i use comand line apps.
+          comandline GIT, github, bitbucket, my favorite operating system is gnu/Linux 
+          ( debian, ubuntu), and i use the term for everything.
         </p>
       </h6>
       <div className="tools col-md-6">
