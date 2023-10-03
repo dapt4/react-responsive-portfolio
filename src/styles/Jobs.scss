@@ -20,5 +20,16 @@
         object-position: center center;
       }
     }
+    &-body{
+      position: relative;
+      padding-bottom: 40px;
+      a{
+        position: absolute;
+        bottom: 10px;
+        left: 10%;
+        right: 10%;
+        width: 80%;
+      }
+    }
   }
 }

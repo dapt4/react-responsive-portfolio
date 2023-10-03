@@ -6,21 +6,23 @@ export default function Skills() {
     <section className="skills">
       <h3>My Skills</h3>
       <h6 className="h4 col-md-6">
-    I have solid knowledge in: javascript, css, html, java, spring mvc,
-        sql, fullstack developer en Argotec Ingeniería, react, typescript,
-        angular, python, django, flask, fastapi, Token based sessions.
-        i work allways thinking in responsive web design, i like to use SASS
-        for preprocess my css. i write apps client side
-        rendering (CSR), server side rendering (SSR - JSP - ejs - handlebars),
-        in the most of the cases i use Bootstrap for fast development, jquery,
-        leaflet.js is the better tool for make interactive maps, highcharts for
-        make graphic charts.
+        I have a strong knowledge in: javascript, css, html, vue3, Python, Django,
+        sql, react, typescript, angular, flask, fastapi, restful APIs, 
+        token-based sessions. I always work with responsive web design in mind, 
+        and I enjoy using SASS to preprocess my CSS. 
+
+        I write client-side applications (CSR), server-side rendering (SSR), and 
+        I have used leaflet.js to create interactive maps and highcharts to make 
+        Charts.
         <br/>
         <br/>       
         <p>
-          I use VScode for write code, but i prefer nvim, i use sublime merge or
-          comandline GIT, github, bitbucket, my favorite operating system is gnu/Linux 
-          ( debian, ubuntu), and i use the term for everything.
+          I use Neovim to write my code and work with agile methodologies like 
+          Scrum. I use Sublime Merge or the command-line GIT for version control, 
+          and I utilize platforms like GitHub and Bitbucket. 
+
+          My favorite operating system is GNU/Linux (Debian, Ubuntu), 
+          and I use the terminal for everything.
         </p>
       </h6>
       <div className="tools col-md-6">
@@ -31,7 +33,9 @@ export default function Skills() {
         <i class="fab fa-js"></i>
         <i class="fab fa-sass"></i>
         <i class="fab fa-bootstrap"></i>
+        <i class="fab fa-vuejs"></i>
         <i class="fab fa-react"></i>
+        <i class="fab fa-angular"></i>
         <i class="fab fa-git-alt"></i>
         <i class="fab fa-github"></i>
         <i class="fab fa-html5"></i>

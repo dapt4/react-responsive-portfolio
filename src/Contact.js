@@ -27,7 +27,7 @@ export default function Contact() {
         <i className="fas fa-mobile"></i>
         {" "}
         <span>
-          (+34)603699232
+          send me an email for the phone number
         </span>
       </div>
       <div>
