@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/react-responsive-portfolio/static/css/main.0bb5a1d6.css",
-    "main.js": "/react-responsive-portfolio/static/js/main.367a7fb5.js",
+    "main.js": "/react-responsive-portfolio/static/js/main.29f9bccd.js",
+    "static/media/bank.jpg": "/react-responsive-portfolio/static/media/bank.fa0a41fbccb456e6524e.jpg",
     "static/media/sorting.png": "/react-responsive-portfolio/static/media/sorting.48219ccec13bd42e2314.png",
     "static/media/passmanager.png": "/react-responsive-portfolio/static/media/passmanager.3abb1be7f245dc8c0589.png",
     "static/media/djangoPortfolio.png": "/react-responsive-portfolio/static/media/djangoPortfolio.ad628440b1f6c5f55feb.png",
@@ -15,14 +16,15 @@
     "static/media/all-store-api.png": "/react-responsive-portfolio/static/media/all-store-api.e23c47fd13856fed4f10.png",
     "static/media/fastapi.jpeg": "/react-responsive-portfolio/static/media/fastapi.02a9761d0c26f09c51da.jpeg",
     "static/media/wedding.png": "/react-responsive-portfolio/static/media/wedding.3a6dc5159a25ff0bb531.png",
+    "static/media/marvel.png": "/react-responsive-portfolio/static/media/marvel.9d68392495ed486bff98.png",
     "static/media/tasksApp.png": "/react-responsive-portfolio/static/media/tasksApp.ffeb5f344c653ca41c8c.png",
     "static/media/github.svg": "/react-responsive-portfolio/static/media/github.833b63e28cadf07403bc81451d30b858.svg",
     "index.html": "/react-responsive-portfolio/index.html",
     "main.0bb5a1d6.css.map": "/react-responsive-portfolio/static/css/main.0bb5a1d6.css.map",
-    "main.367a7fb5.js.map": "/react-responsive-portfolio/static/js/main.367a7fb5.js.map"
+    "main.29f9bccd.js.map": "/react-responsive-portfolio/static/js/main.29f9bccd.js.map"
   },
   "entrypoints": [
     "static/css/main.0bb5a1d6.css",
-    "static/js/main.367a7fb5.js"
+    "static/js/main.29f9bccd.js"
   ]
 }
