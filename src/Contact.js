@@ -6,7 +6,7 @@ export default function Contact() {
   return (
     <section className="contact">
       <h1 className="display-4 mb-3">
-        <span> Contact</span>
+        <span> Contacto</span>
       </h1>
       <div>
         <i className="fas fa-envelope"></i>
@@ -20,21 +20,20 @@ export default function Contact() {
         <i className="fab fa-linkedin"></i>
         <span>
           {" "}
-          https://www.linkedin.com/in/diego-antonio-perozo-troncone-563893b9/
+          https://www.linkedin.com/in/diegoperozotroncone
         </span>
       </div>
       <div>
         <i className="fas fa-mobile"></i>
         {" "}
         <span>
-          send me an email for the phone number
+          Enviame un email para enviarte el numero de telefono.
         </span>
       </div>
       <div>
         <a
           className="btn btn-primary mt-5"
-          href="https://docs.google.com/document/d/e/2PACX-1vTeppLR98BF8ImlyI5tg_-Km5mLLmpe-FifeJv219KjK2DUf2R00aLsm0nCfGwthhxDEMJbPPaDarHn/pub"
-        >
+          href="https://docs.google.com/document/d/13ANQIPMBus0ArM1SW6rzM8B4tk6erZiDHWZlxN7hQ7Q/edit?usp=sharing">
           Download CV
         </a>
       </div>

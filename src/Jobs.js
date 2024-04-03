@@ -1,9 +1,9 @@
 import React from "react";
 import Plants from "./assets/plants.jpg";
 import Shopping from "./assets/shopping.jpg";
+import bank from "./assets/bank.jpg";
 import { projectsArray } from './components/ProjectsArray.d.js';
 import "./styles/Jobs.scss";
-// import {Link} from "react-router-dom";
 
 export default function Jobs() {
   const jobsArray = [
@@ -12,23 +12,28 @@ export default function Jobs() {
       image: Plants,
       link: "https://www.qampo.es",
       description:
-        "Fullstack developer",
+        "Frontend developer",
     },
     {
       title: "hellosabi.com",
       image: Shopping,
       link: "https://hellosabi.com",
       description:
-        "React Frontend Developer",
+        "Frontend Developer",
+    },
+   {
+      title: "ca-moncommerce.com",
+      image: bank,
+      link: "https://www.ca-moncommerce.com/",
+      description:
+        "Fullstack Developer",
     },
   ]; 
   return (
     <section className="jobs">
-      <h1 className="text-light">My Experience</h1>
+      <h1 className="text-light">Proyectos de Empresas</h1>
       <h4 className="text-secondary">
-        I have had the pleasure of working in two large companies to contribute
-        all my skills and grow with them.
-        
+        He trabajado en tres proyectos empresariales.
       </h4>
       <div className="cards">
         {jobsArray.map((job, index) => (
@@ -46,11 +51,11 @@ export default function Jobs() {
           </div>
         ))}
       </div>
-      <h1 className="text-light mt-5">My personal projects</h1>
+      <h1 className="text-light mt-5">Mis proyectos personales</h1>
       <br />
       <br />
       <p className="text-light">
-        You can see more projects in my{" "}
+        Puede ver mas proyectos en mi {" "}
         <a className="text-light" href="https://github.com/dapt4">
           Github
         </a>

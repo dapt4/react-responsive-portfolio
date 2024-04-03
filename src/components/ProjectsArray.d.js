@@ -10,8 +10,16 @@ import allStoreApi from "../assets/all-store-api.png";
 import githubLogo from "../assets/github.svg";
 import sorting from "../assets/sorting.png";
 import telebot from "../assets/telebot.jpeg";
+import marvel from '../assets/marvel.png'
 
 export const projectsArray = [
+  {
+    title: "Marvel Hero app",
+    image: marvel,
+    link: "https://astonishing-naiad-95d8b4.netlify.app/",
+    description:
+      "Applicacion de heroes de marvel.",
+  },
   {
     title: "vim-real-commenter",
     image: githubLogo,
